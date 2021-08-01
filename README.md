@@ -6,8 +6,6 @@ Olá, mundo! Eu sou Carlos Anderson, mas sempre uso o nick Tooz para tudo.
 - 🌱 Atualmente estou estudando SpringBoot, Angular, Java e Jacascript;
 - 😄 Pronouns: ele/dele;
 - ⚡ Fun fact: Você sabia? Shinigamis adoram maçãs.
-<!-- Header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 <!-- Github Profile -->
 <div>
