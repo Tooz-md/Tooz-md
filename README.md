@@ -14,7 +14,13 @@ Olá, mundo! Eu sou Carlos Anderson, mas sempre uso o nick Tooz para tudo.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tooz-md&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <!-- Github Profile -->
-  
+<hr>
 <!-- Tecnologias -->
+<img src="https://user-images.githubusercontent.com/83034072/127756951-abdd4ce0-e501-415e-828b-db061fa2ffb0.png" width="50" height="50">
+<!-- <img src=" " width="50" height="50">
+<img src=" " width="50" height="50">
+<img src=" " width="50" height="50">
+<img src=" " width="50" height="50"> -->
 
+ 
 <!-- Tecnologias -->
