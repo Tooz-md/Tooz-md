@@ -68,7 +68,7 @@ Se quiser trocar ideias, aprender junto ou colaborar em projetos:
 
 <div align="center">
 
-✨ *“Aprender tecnologia é aprender a resolver problemas reais.”* ✨  
+✨ *“Eu não sei de tudo, eu só sei o que eu sei”* ✨  
 
 </div>
 
