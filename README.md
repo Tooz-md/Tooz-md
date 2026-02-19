@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 👋 Olá, eu sou Carlos Anderson  
 ### mas você pode me chamar de **Tooz**
