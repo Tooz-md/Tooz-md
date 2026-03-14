@@ -61,7 +61,7 @@ Atualmente focado em:
 
 Se quiser trocar ideias, aprender junto ou colaborar em projetos:
 
-- 📧 **Email**: *(anderson.dev@gmail.com)*
+- 📧 **Email**: *(*****)*
 - 💻 **GitHub**: você já está aqui 😉
 
 ---
